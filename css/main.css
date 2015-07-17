@@ -1,0 +1,37 @@
+body { background-color: #ededed !important; }
+
+.my-color { color: #f15c57; }
+
+.progress-bar { background-color: #f15c57 !important; text-align: left !important; padding-left: 10px; font-size: 14px !important; }
+
+.hobbies .label { background-color: #f15c57 !important; font-weight: 300; font-size: 12px !important;}
+
+a { color: #f15c57 !important; }
+
+.lightdate { color: #f15c57; font-size: 13px;}
+
+.head {	margin-top: 10px; font-family: 'Titillium Web'; }
+
+.head .title { font-size: 35px; font-weight: 900; }
+
+.head .short { font-size: 25px;}
+
+.body .title { font-family: 'Titillium Web'; font-weight: 700; font-size: 20px; margin-bottom: 10px; border-bottom: 3px double #f15c57; }
+
+.body .content { font-family: 'Roboto Condensed'; margin-bottom: 15px; font-size: 15px; }
+
+.intro {}
+
+.intro .content {  }
+
+.intro .link { font-size: 16px; }
+
+.experience {}
+
+.experience dt { text-align: left !important; }
+
+.experience dd { margin-bottom: 5px !important; }
+
+.experience .subtitle { font-size: 18px; }
+
+.hobbies .content {  font-weight: 300; font-size: 17px; }
